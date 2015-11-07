@@ -1,0 +1,23 @@
+{
+  "name": "map-linked-list",
+  "version": "1.0.0",
+  "description": "linked list on top of a map",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js --cov"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~2.1.0"
+  },
+  "license": "MIT",
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanlucas/map-linked-list"
+  },
+  "homepage": "https://github.com/evanlucas/map-linked-list",
+  "bugs": {
+    "url": "https://github.com/evanlucas/map-linked-list/issues"
+  }
+}
